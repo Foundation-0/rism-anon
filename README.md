@@ -109,6 +109,7 @@ Older exports are kept under `https://rism.digital/exports/archive/`, listed in
 | [`AGENTS.md`](AGENTS.md) | Guide for AI agents working here |
 | [`CLAUDE.md`](CLAUDE.md) | Points Claude Code to AGENTS.md |
 | [`notes/scouting-2026-10-19.md`](notes/scouting-2026-10-19.md) | The research so far, with sources |
+| [`notes/reports/`](notes/reports/README.md) | the complete scouting reports, kept as written, and the fact-check |
 | [`pilot/match.py`](pilot/match.py) | Pilot matcher: anonymous records against attributed ones, by their first 12 pitches |
 | [`pilot/match_genre.py`](pilot/match_genre.py) | The same, with counts by genre. It produced the results file |
 | [`results/pilot-2026-10-19.md`](results/pilot-2026-10-19.md) | Pilot counts by genre |
