@@ -1,0 +1,9 @@
+# RISM export files. Download them as README.md says; never commit them.
+data/
+*.xml
+*.xml.gz
+
+# The full match list written by pilot/match_genre.py. Never commit it.
+rism-matched-ids.json
+
+__pycache__/

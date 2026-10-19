@@ -1,0 +1,33 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: The pilot scripts compile
+        run: python -m py_compile pilot/*.py
+      - name: The pilot scripts run on RISM's small sample export (about 60 KB)
+        run: |
+          mkdir -p data
+          curl -sSfL -o data/sample.xml.gz https://rism.digital/exports/source-sample-latest.xml.gz
+          cd data
+          python ../pilot/match.py sample.xml.gz > match-out.txt
+          python ../pilot/match_genre.py sample.xml.gz > genre-out.txt
+          grep -q '"records"' genre-out.txt
+      - name: No RISM data or match list is committed
+        run: |
+          if git ls-files | grep -E '\.xml(\.gz)?$|rism-matched-ids\.json$|^data/'; then
+            echo "RISM data and the full match list must not be committed."
+            exit 1
+          fi
