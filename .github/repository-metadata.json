@@ -1,0 +1,11 @@
+{
+  "description": "Matches anonymous music manuscripts in RISM to works by named composers, by their opening bars.",
+  "topics": [
+    "foundation0",
+    "musicology",
+    "digital-humanities",
+    "rism",
+    "music-manuscripts",
+    "attribution"
+  ]
+}
