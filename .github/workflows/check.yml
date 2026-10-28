@@ -31,3 +31,6 @@ jobs:
             echo "RISM data and the full match list must not be committed."
             exit 1
           fi
+
+      - name: Review sample tests
+        run: python -m unittest discover -s tests -v
