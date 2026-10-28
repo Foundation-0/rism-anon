@@ -1,0 +1,18 @@
+{
+  "issue": 4,
+  "status": "awaiting-human-review",
+  "recipient_scope": "The rism-attributions maintainer and RISM editors, through human-verified routes",
+  "required_evidence": "pilot export hash; matching method; blinded review protocol; incipit rendering examples that identify no anonymous candidate.",
+  "signoffs": [
+    {
+      "contact_kind": null,
+      "sender": null,
+      "recipient_verified_at": null,
+      "sent_at": null,
+      "genres": null,
+      "credit": null,
+      "submission_format": null,
+      "reply_reference": null
+    }
+  ]
+}
