@@ -121,3 +121,10 @@ Older exports are kept under `https://rism.digital/exports/archive/`, listed in
 - **Earlier work:** [aaymeloglu/rism-attributions](https://github.com/aaymeloglu/rism-attributions) asked the same
   question before this project, for symphonies, concertos, operas and overtures.
 - **Code:** Apache License 2.0 (see [LICENSE](LICENSE)), as for Foundation0's other repositories.
+
+## Expanded matching (draft)
+
+[Interval and near-match instructions](pilot/near-match.md) describe the new
+matcher and shuffled controls. The [generated-control results](results/2026-10-28-near-matching.md)
+are synthetic checks only. The pinned-export exact-count comparison and real
+counts by genre remain pending.
