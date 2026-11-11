@@ -5,9 +5,10 @@
         }
     ],
     "title": "rism-anon",
-    "description": "<p>This repository finds anonymous music manuscripts in RISM that open with the same melody as a work RISM attributes to a named composer, and offers the pairs to RISM's editors. Matches are candidates, not attributions.</p><p>Status: pilot, claimed, not peer reviewed.</p><p>A claimed re-run on the 1 Oct 2026 export found that 13,696 of 138,817 anonymous records with a usable incipit open with the same 12 notes as attributed records by exactly one composer. No match has been checked by a person.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
+    "description": "<p>This repository finds anonymous music manuscripts in RISM that open with the same melody as a work RISM attributes to a named composer, and offers the pairs to RISM's editors. Matches are candidates, not attributions.</p><p>Status: pilot, claimed, not peer reviewed.</p><p>A claimed re-run on the 1 Oct 2026 export found that 13,696 of 138,817 anonymous records with a usable incipit open with the same 12 notes as attributed records by exactly one composer. No match has been checked by a person.</p><p>The counts come from RISM's monthly export of its records as open data under CC BY 3.0. All data comes from RISM, under CC BY 3.0. It is not redistributed here and the export is not in this archive.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
     "upload_type": "software",
     "license": "Apache-2.0",
+    "access_right": "open",
     "keywords": [
         "attribution",
         "digital-humanities",
