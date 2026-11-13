@@ -121,3 +121,9 @@ Older exports are kept under `https://rism.digital/exports/archive/`, listed in
 - **Earlier work:** [aaymeloglu/rism-attributions](https://github.com/aaymeloglu/rism-attributions) asked the same
   question before this project, for symphonies, concertos, operas and overtures.
 - **Code:** Apache License 2.0 (see [LICENSE](LICENSE)), as for Foundation0's other repositories.
+
+## Comparison renderer (draft)
+
+[Local rendering instructions](pilot/render-pair.md) describe the offline
+Verovio comparison tool and its generated example. Five real-record visual
+checks remain pending; the example contains no RISM candidate matches.
