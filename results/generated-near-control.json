@@ -1,0 +1,121 @@
+{
+  "status": "counts are candidates, never attributions",
+  "anonymous_records": 4,
+  "counts_by_genre": {
+    "exact": {
+      "Generated fixture": 1
+    },
+    "transposed_additional": {
+      "Generated fixture": 1
+    },
+    "near_additional": {
+      "Generated fixture": 2
+    }
+  },
+  "shuffle_seed": 20261028,
+  "shuffled_controls_by_genre": [
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    },
+    {
+      "exact": {},
+      "transposed_additional": {},
+      "near_additional": {}
+    }
+  ],
+  "control_limit": "pitch-order shuffle preserves pitch multiset; not a calibrated false discovery rate",
+  "input_sha1": "a033bcb9c8f7580342792b4f259ad78fdf58f5e4",
+  "input_kind": "generated fixture"
+}

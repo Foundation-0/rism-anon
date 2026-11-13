@@ -1,0 +1,107 @@
+[
+  {
+    "composer": "Generated composer",
+    "anonymous": false,
+    "genre": "Generated fixture",
+    "pitches": [
+      [
+        60,
+        62,
+        64,
+        65,
+        67,
+        69,
+        71,
+        72,
+        74,
+        76,
+        77,
+        79
+      ]
+    ]
+  },
+  {
+    "composer": "Anonymous fixture",
+    "anonymous": true,
+    "genre": "Generated fixture",
+    "pitches": [
+      [
+        60,
+        62,
+        64,
+        65,
+        67,
+        69,
+        71,
+        72,
+        74,
+        76,
+        77,
+        79
+      ]
+    ]
+  },
+  {
+    "composer": "Anonymous fixture",
+    "anonymous": true,
+    "genre": "Generated fixture",
+    "pitches": [
+      [
+        64,
+        66,
+        68,
+        69,
+        71,
+        73,
+        75,
+        76,
+        78,
+        80,
+        81,
+        83
+      ]
+    ]
+  },
+  {
+    "composer": "Anonymous fixture",
+    "anonymous": true,
+    "genre": "Generated fixture",
+    "pitches": [
+      [
+        60,
+        62,
+        64,
+        65,
+        67,
+        69,
+        71,
+        73,
+        74,
+        76,
+        77,
+        79
+      ]
+    ]
+  },
+  {
+    "composer": "Anonymous fixture",
+    "anonymous": true,
+    "genre": "Generated fixture",
+    "pitches": [
+      [
+        60,
+        62,
+        64,
+        65,
+        67,
+        67,
+        69,
+        71,
+        72,
+        74,
+        76,
+        77
+      ]
+    ]
+  }
+]
